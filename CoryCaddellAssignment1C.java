@@ -24,9 +24,9 @@ public class CoryCaddellAssignment1C {
 			// Read line of text
 			String dataPerLine = input.nextLine();
 			// Split out words from input variable
-			String[] mapEntry = dataPerLine.split("[, 	]");
+			String[] mapEntry = dataPerLine.split("[,	]");
 			// Second to last element will be key in Map
-			String key = mapEntry[mapEntry.length - 2];
+			String key = mapEntry[mapEntry.length - 2].trim();
 			// Last element will be value in Map
 			Integer value = Integer.valueOf(mapEntry[mapEntry.length - 1]);
 			
@@ -45,8 +45,8 @@ public class CoryCaddellAssignment1C {
 		input.close();
 		
 	// Display population sum per state to screen in table format
-		System.out.printf("%-20s%s\n", "State", "Total Population");
-		CoryCaddellStructure.forEach((key, value) -> System.out.printf("%-20s%,d\n", key, value));
+		System.out.printf("%-30s%s\n", "State", "Total Population");
+		CoryCaddellStructure.forEach((key, value) -> System.out.printf("%-30s%,d\n", key, value));
 	}
 
 }
