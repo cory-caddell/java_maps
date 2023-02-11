@@ -1,0 +1,788 @@
+Abilene city, Texas	123420
+Akron city, Ohio	197597
+Alameda city, California	77624
+Albany city, Georgia	72130
+Albany city, New York	96460
+Albany city, Oregon	55338
+Albuquerque city, New Mexico	560513
+Alexandria city, Virginia	159428
+Alhambra city, California	83750
+Aliso Viejo city, California	50887
+Allen city, Texas	105623
+Allentown city, Pennsylvania	121442
+Alpharetta city, Georgia	67213
+Amarillo city, Texas	199371
+Ames city, Iowa	66258
+Anaheim city, California	350365
+Anchorage municipality, Alaska	288000
+Anderson city, Indiana	54765
+Ankeny city, Iowa	67355
+Ann Arbor city, Michigan	119980
+Antioch city, California	111502
+Apex town, North Carolina	59300
+Apopka city, Florida	53447
+Apple Valley city, Minnesota	55135
+Apple Valley town, California	73453
+Appleton city, Wisconsin	74098
+Arcadia city, California	57939
+Arlington city, Texas	398854
+Arlington Heights village, Illinois	74760
+Arvada city, Colorado	121272
+Asheville city, North Carolina	92870
+Athens-Clarke County unified government (balance), Georgia	126913
+Atlanta city, Georgia	506811
+Auburn city, Alabama	66259
+Auburn city, Washington	81464
+Augusta-Richmond County consolidated government (balance), Georgia	197888
+Aurora city, Colorado	379289
+Aurora city, Illinois	197757
+Austin city, Texas	978908
+Avondale city, Arizona	87931
+Bakersfield city, California	384145
+Baldwin Park city, California	75251
+Baltimore city, Maryland	593490
+Bartlett city, Tennessee	59440
+Baton Rouge city, Louisiana	220236
+Battle Creek city, Michigan	51093
+Bayonne city, New Jersey	64897
+Baytown city, Texas	77192
+Beaumont city, California	51063
+Beaumont city, Texas	116825
+Beaverton city, Oregon	99037
+Bellevue city, Nebraska	53544
+Bellevue city, Washington	148164
+Bellflower city, California	76435
+Bellingham city, Washington	92314
+Bend city, Oregon	100421
+Bentonville city, Arkansas	54909
+Berkeley city, California	121363
+Berwyn city, Illinois	54391
+Bethlehem city, Pennsylvania	75815
+Billings city, Montana	109577
+Birmingham city, Alabama	209403
+Bismarck city, North Dakota	73529
+Blaine city, Minnesota	65607
+Bloomington city, Illinois	77330
+Bloomington city, Indiana	85755
+Bloomington city, Minnesota	84943
+Blue Springs city, Missouri	55829
+Boca Raton city, Florida	99805
+Boise City city, Idaho	228959
+Bolingbrook village, Illinois	74545
+Bonita Springs city, Florida	59637
+Bossier City city, Louisiana	68159
+Boston city, Massachusetts	692600
+Boulder city, Colorado	105673
+Bowie city, Maryland	58643
+Bowling Green city, Kentucky	70543
+Boynton Beach city, Florida	78679
+Bradenton city, Florida	59439
+Brentwood city, California	64474
+Bridgeport city, Connecticut	144399
+Bristol city, Connecticut	59947
+Brockton city, Massachusetts	95708
+Broken Arrow city, Oklahoma	110198
+Brookhaven city, Georgia	55554
+Brooklyn Park city, Minnesota	80389
+Broomfield city, Colorado	70465
+Brownsville city, Texas	182781
+Bryan city, Texas	86276
+Buckeye city, Arizona	79620
+Buena Park city, California	81788
+Buffalo city, New York	255284
+Burbank city, California	102511
+Burien city, Washington	51500
+Burlington city, North Carolina	54606
+Burnsville city, Minnesota	61339
+Caldwell city, Idaho	58481
+Camarillo city, California	69888
+Cambridge city, Massachusetts	118927
+Camden city, New Jersey	73562
+Canton city, Ohio	70447
+Cape Coral city, Florida	194495
+Carlsbad city, California	115382
+Carmel city, Indiana	101068
+Carrollton city, Texas	139248
+Carson city, California	91394
+Carson City, Nevada	55916
+Cary town, North Carolina	170282
+Casa Grande city, Arizona	58632
+Casper city, Wyoming	57931
+Castle Rock town, Colorado	68484
+Cathedral City city, California	55007
+Cedar Park city, Texas	79462
+Cedar Rapids city, Iowa	133562
+Centennial city, Colorado	110937
+Cerritos city, California	49859
+Champaign city, Illinois	88909
+Chandler city, Arizona	261165
+Chapel Hill town, North Carolina	64051
+Charleston city, South Carolina	137566
+Charleston city, West Virginia	46536
+Charlotte city, North Carolina	885708
+Chattanooga city, Tennessee	182799
+Chesapeake city, Virginia	244835
+Cheyenne city, Wyoming	64235
+Chicago city, Illinois	2693976
+Chico city, California	103301
+Chicopee city, Massachusetts	55126
+Chino city, California	94371
+Chino Hills city, California	83853
+Chula Vista city, California	274492
+Cicero town, Illinois	80796
+Cincinnati city, Ohio	303940
+Citrus Heights city, California	87796
+Clarksville city, Tennessee	158146
+Clearwater city, Florida	116946
+Cleveland city, Ohio	381009
+Clifton city, New Jersey	85052
+Clovis city, California	114584
+Coconut Creek city, Florida	61248
+Coeur d'Alene city, Idaho	52414
+College Station city, Texas	117911
+Collierville town, Tennessee	51040
+Colorado Springs city, Colorado	478221
+Colton city, California	54824
+Columbia city, Missouri	123195
+Columbia city, South Carolina	131674
+Columbus city, Georgia	195769
+Columbus city, Ohio	898553
+Commerce City city, Colorado	60336
+Compton city, California	95605
+Concord city, California	129295
+Concord city, North Carolina	96341
+Conroe city, Texas	91079
+Conway city, Arkansas	67638
+Coon Rapids city, Minnesota	62998
+Coral Gables city, Florida	49700
+Coral Springs city, Florida	133759
+Corona city, California	169868
+Corpus Christi city, Texas	326586
+Corvallis city, Oregon	58856
+Costa Mesa city, California	113003
+Council Bluffs city, Iowa	62166
+Cranston city, Rhode Island	81456
+Cupertino city, California	59276
+Dallas city, Texas	1343573
+Daly City city, California	106280
+Danbury city, Connecticut	84694
+Davenport city, Iowa	101590
+Davie town, Florida	106306
+Davis city, California	69413
+Dayton city, Ohio	140407
+Daytona Beach city, Florida	69186
+Dearborn city, Michigan	93932
+Dearborn Heights city, Michigan	55353
+Decatur city, Alabama	54445
+Decatur city, Illinois	70746
+Deerfield Beach city, Florida	81066
+Delano city, California	53573
+Delray Beach city, Florida	69451
+Deltona city, Florida	92757
+Denton city, Texas	141541
+Denver city, Colorado	727211
+Des Moines city, Iowa	214237
+Des Plaines city, Illinois	58899
+DeSoto city, Texas	52988
+Detroit city, Michigan	670031
+Diamond Bar city, California	55720
+Doral city, Florida	65741
+Dothan city, Alabama	68941
+Downey city, California	111126
+Dublin city, California	64826
+Dubuque city, Iowa	57882
+Duluth city, Minnesota	85618
+Durham city, North Carolina	278993
+Eagan city, Minnesota	66372
+East Orange city, New Jersey	64367
+Eastvale city, California	64157
+Eau Claire city, Wisconsin	68802
+Eden Prairie city, Minnesota	64893
+Edina city, Minnesota	52857
+Edinburg city, Texas	101170
+Edmond city, Oklahoma	94054
+El Cajon city, California	102708
+El Monte city, California	115487
+El Paso city, Texas	681728
+Elgin city, Illinois	110849
+Elizabeth city, New Jersey	129216
+Elk Grove city, California	174775
+Elkhart city, Indiana	52358
+Elyria city, Ohio	53757
+Encinitas city, California	62709
+Enid city, Oklahoma	49688
+Erie city, Pennsylvania	95508
+Escondido city, California	151625
+Eugene city, Oregon	172622
+Euless city, Texas	57197
+Evanston city, Illinois	73473
+Evansville city, Indiana	117979
+Everett city, Washington	111475
+Fairfield city, California	117133
+Fall River city, Massachusetts	89541
+Fargo city, North Dakota	124662
+Farmington Hills city, Michigan	80612
+Fayetteville city, Arkansas	87590
+Fayetteville city, North Carolina	211657
+Federal Way city, Washington	96289
+Fishers city, Indiana	95310
+Flagstaff city, Arizona	75038
+Flint city, Michigan	95538
+Florissant city, Missouri	50952
+Flower Mound town, Texas	79135
+Folsom city, California	81328
+Fontana city, California	214547
+Fort Collins city, Colorado	170243
+Fort Lauderdale city, Florida	182437
+Fort Myers city, Florida	87103
+Fort Smith city, Arkansas	87891
+Fort Wayne city, Indiana	270402
+Fort Worth city, Texas	909585
+Fountain Valley city, California	55357
+Framingham city, Massachusetts	74416
+Franklin city, Tennessee	83097
+Frederick city, Maryland	72244
+Fremont city, California	241110
+Fresno city, California	531576
+Frisco city, Texas	200490
+Fullerton city, California	138632
+Gainesville city, Florida	133997
+Gaithersburg city, Maryland	67985
+Galveston city, Texas	50446
+Garden Grove city, California	171644
+Gardena city, California	59329
+Garland city, Texas	239928
+Gary city, Indiana	74879
+Gastonia city, North Carolina	77273
+Georgetown city, Texas	79604
+Gilbert town, Arizona	254114
+Gilroy city, California	59032
+Glendale city, Arizona	252381
+Glendale city, California	199303
+Glendora city, California	51544
+Goodyear city, Arizona	86840
+Grand Forks city, North Dakota	55839
+Grand Island city, Nebraska	51267
+Grand Junction city, Colorado	63597
+Grand Prairie city, Texas	194543
+Grand Rapids city, Michigan	201013
+Grapevine city, Texas	55281
+Great Falls city, Montana	58434
+Greeley city, Colorado	108649
+Green Bay city, Wisconsin	104578
+Greensboro city, North Carolina	296710
+Greenville city, North Carolina	93400
+Greenville city, South Carolina	70635
+Greenwood city, Indiana	59458
+Gresham city, Oregon	109381
+Gulfport city, Mississippi	71705
+Hamilton city, Ohio	62082
+Hammond city, Indiana	75522
+Hampton city, Virginia	134510
+Hanford city, California	57703
+Harlingen city, Texas	65022
+Harrisonburg city, Virginia	53016
+Hartford city, Connecticut	122105
+Haverhill city, Massachusetts	64014
+Hawthorne city, California	86068
+Hayward city, California	159203
+Hemet city, California	85334
+Hempstead village, New York	55113
+Henderson city, Nevada	320189
+Hendersonville city, Tennessee	58113
+Herriman city, Utah	51348
+Hesperia city, California	95750
+Hialeah city, Florida	233339
+High Point city, North Carolina	112791
+Highland city, California	55417
+Hillsboro city, Oregon	109128
+Hoboken city, New Jersey	52677
+Hoffman Estates village, Illinois	50932
+Hollywood city, Florida	154817
+Homestead city, Florida	69523
+Hoover city, Alabama	85768
+Houston city, Texas	2320268
+Huntersville town, North Carolina	58098
+Huntington Beach city, California	199223
+Huntington Park city, California	57509
+Huntsville city, Alabama	200574
+Idaho Falls city, Idaho	62888
+Independence city, Missouri	116672
+Indianapolis city (balance), Indiana	876384
+Indio city, California	91765
+Inglewood city, California	108151
+Iowa City city, Iowa	75130
+Irvine city, California	287401
+Irving city, Texas	239798
+Jackson city, Mississippi	160628
+Jackson city, Tennessee	67191
+Jacksonville city, Florida	911507
+Jacksonville city, North Carolina	72436
+Janesville city, Wisconsin	64575
+Jersey City city, New Jersey	262075
+Johns Creek city, Georgia	84579
+Johnson City city, Tennessee	66906
+Joliet city, Illinois	147344
+Jonesboro city, Arkansas	78394
+Joplin city, Missouri	50925
+Jupiter town, Florida	65791
+Jurupa Valley city, California	109527
+Kalamazoo city, Michigan	76200
+Kannapolis city, North Carolina	50841
+Kansas City city, Kansas	152960
+Kansas City city, Missouri	495327
+Kenner city, Louisiana	66340
+Kennewick city, Washington	84347
+Kenosha city, Wisconsin	99944
+Kent city, Washington	132319
+Kentwood city, Michigan	51898
+Kettering city, Ohio	54855
+Killeen city, Texas	151666
+Kingsport city, Tennessee	54127
+Kirkland city, Washington	93010
+Kissimmee city, Florida	72717
+Knoxville city, Tennessee	187603
+Kokomo city, Indiana	58020
+La Crosse city, Wisconsin	51227
+La Habra city, California	60513
+La Mesa city, California	59249
+Lacey city, Washington	52592
+Lafayette city, Indiana	71721
+Lafayette city, Louisiana	126185
+Laguna Niguel city, California	66385
+Lake Charles city, Louisiana	78396
+Lake Elsinore city, California	69283
+Lake Forest city, California	85531
+Lake Havasu City city, Arizona	55865
+Lakeland city, Florida	112136
+Lakeville city, Minnesota	67317
+Lakewood city, California	79307
+Lakewood city, Colorado	157935
+Lakewood city, Ohio	49678
+Lakewood city, Washington	61037
+Lancaster city, California	157601
+Lancaster city, Pennsylvania	59265
+Lansing city, Michigan	118210
+Laredo city, Texas	262491
+Largo city, Florida	84948
+Las Cruces city, New Mexico	103432
+Las Vegas city, Nevada	651319
+Lauderhill city, Florida	71868
+Lawrence city, Kansas	98193
+Lawrence city, Massachusetts	80028
+Lawton city, Oklahoma	93025
+Layton city, Utah	78014
+League City city, Texas	107536
+Leander city, Texas	62608
+Lee's Summit city, Missouri	99357
+Leesburg town, Virginia	53727
+Lehi city, Utah	69724
+Lenexa city, Kansas	55625
+Lewisville city, Texas	109212
+Lexington-Fayette urban county, Kentucky	323152
+Lincoln city, Nebraska	289102
+Little Elm city, Texas	53126
+Little Rock city, Arkansas	197312
+Livermore city, California	90189
+Livonia city, Michigan	93665
+Lodi city, California	67586
+Logan city, Utah	51542
+Long Beach city, California	462628
+Longmont city, Colorado	97261
+Longview city, Texas	81631
+Lorain city, Ohio	63855
+Los Angeles city, California	3979576
+Louisville/Jefferson County metro government (balance), Kentucky	617638
+Loveland city, Colorado	78877
+Lowell city, Massachusetts	110997
+Lubbock city, Texas	258862
+Lynchburg city, Virginia	82168
+Lynn city, Massachusetts	94299
+Lynwood city, California	69887
+Macon-Bibb County, Georgia	153159
+Madera city, California	65860
+Madison city, Alabama	51593
+Madison city, Wisconsin	259680
+Malden city, Massachusetts	60470
+Manchester city, New Hampshire	112673
+Manhattan city, Kansas	54604
+Mansfield city, Texas	72419
+Manteca city, California	83028
+Maple Grove city, Minnesota	72622
+Margate city, Florida	58796
+Maricopa city, Arizona	52127
+Marietta city, Georgia	60867
+Marysville city, Washington	70298
+McAllen city, Texas	143268
+McKinney city, Texas	199177
+Medford city, Massachusetts	57341
+Medford city, Oregon	83072
+Melbourne city, Florida	83029
+Memphis city, Tennessee	651073
+Menifee city, California	94756
+Merced city, California	83676
+Meriden city, Connecticut	59395
+Meridian city, Idaho	114161
+Mesa city, Arizona	518012
+Mesquite city, Texas	140937
+Methuen Town city, Massachusetts	50706
+Miami Beach city, Florida	88885
+Miami city, Florida	467963
+Miami Gardens city, Florida	110001
+Midland city, Texas	146038
+Midwest City city, Oklahoma	57407
+Milford city (balance), Connecticut	53195
+Millcreek city, Utah	61450
+Milpitas city, California	84196
+Milwaukee city, Wisconsin	590157
+Minneapolis city, Minnesota	429606
+Minnetonka city, Minnesota	54064
+Miramar city, Florida	141191
+Mishawaka city, Indiana	50363
+Mission city, Texas	84331
+Mission Viejo city, California	94381
+Missoula city, Montana	75516
+Missouri City city, Texas	75457
+Mobile city, Alabama	188720
+Modesto city, California	215196
+Montebello city, California	61954
+Monterey Park city, California	59669
+Montgomery city, Alabama	198525
+Moore city, Oklahoma	62055
+Moreno Valley city, California	213055
+Mount Pleasant town, South Carolina	91684
+Mount Prospect village, Illinois	53719
+Mount Vernon city, New York	67345
+Mountain View city, California	82739
+Muncie city, Indiana	67999
+Murfreesboro city, Tennessee	146900
+Murrieta city, California	116223
+Nampa city, Idaho	99277
+Napa city, California	78130
+Naperville city, Illinois	148449
+Nashua city, New Hampshire	89355
+Nashville-Davidson metropolitan government (balance), Tennessee	670820
+National City city, California	61394
+New Bedford city, Massachusetts	95363
+New Braunfels city, Texas	90209
+New Britain city, Connecticut	72495
+New Brunswick city, New Jersey	55676
+New Haven city, Connecticut	130250
+New Orleans city, Louisiana	390144
+New Rochelle city, New York	78557
+New York city, New York	8336817
+Newark city, New Jersey	282011
+Newark city, Ohio	50315
+Newport Beach city, California	84534
+Newport News city, Virginia	179225
+Newton city, Massachusetts	88414
+Niagara Falls city, New York	47720
+Noblesville city, Indiana	64668
+Norfolk city, Virginia	242742
+Normal town, Illinois	54469
+Norman city, Oklahoma	124880
+North Charleston city, South Carolina	115382
+North Las Vegas city, Nevada	251974
+North Little Rock city, Arkansas	65903
+North Miami city, Florida	62822
+North Port city, Florida	70724
+North Richland Hills city, Texas	70670
+Norwalk city, California	103949
+Norwalk city, Connecticut	88816
+Novato city, California	55516
+Novi city, Michigan	60896
+Oak Lawn village, Illinois	55022
+Oak Park village, Illinois	52381
+Oakland city, California	433031
+Ocala city, Florida	60786
+Oceanside city, California	175742
+Odessa city, Texas	123334
+O'Fallon city, Missouri	88673
+Ogden city, Utah	87773
+Oklahoma City city, Oklahoma	655057
+Olathe city, Kansas	140545
+Olympia city, Washington	52882
+Omaha city, Nebraska	478192
+Ontario city, California	185010
+Orange city, California	138669
+Orem city, Utah	97828
+Orland Park village, Illinois	57857
+Orlando city, Florida	287442
+Oshkosh city, Wisconsin	67004
+Overland Park city, Kansas	195494
+Owensboro city, Kentucky	60131
+Oxnard city, California	208881
+Palatine village, Illinois	67482
+Palm Bay city, Florida	115552
+Palm Beach Gardens city, Florida	57704
+Palm Coast city, Florida	89800
+Palm Desert city, California	53275
+Palmdale city, California	155079
+Palo Alto city, California	65364
+Paramount city, California	53955
+Parker town, Colorado	57706
+Parma city, Ohio	78103
+Pasadena city, California	141029
+Pasadena city, Texas	151227
+Pasco city, Washington	75432
+Passaic city, New Jersey	69703
+Paterson city, New Jersey	145233
+Pawtucket city, Rhode Island	72117
+Peabody city, Massachusetts	53070
+Pearland city, Texas	122460
+Pembroke Pines city, Florida	173591
+Pensacola city, Florida	52975
+Peoria city, Arizona	175961
+Peoria city, Illinois	110417
+Perris city, California	79291
+Perth Amboy city, New Jersey	51390
+Petaluma city, California	60520
+Pflugerville city, Texas	65380
+Pharr city, Texas	79112
+Philadelphia city, Pennsylvania	1584064
+Phoenix city, Arizona	1680992
+Pico Rivera city, California	62027
+Pinellas Park city, Florida	53637
+Pittsburg city, California	72588
+Pittsburgh city, Pennsylvania	300286
+Placentia city, California	51233
+Plainfield city, New Jersey	50317
+Plano city, Texas	287677
+Plantation city, Florida	94580
+Pleasanton city, California	81777
+Plymouth city, Minnesota	79768
+Pocatello city, Idaho	56637
+Pomona city, California	151691
+Pompano Beach city, Florida	112118
+Pontiac city, Michigan	59438
+Port Arthur city, Texas	54280
+Port Orange city, Florida	64842
+Port St. Lucie city, Florida	201846
+Porterville city, California	59599
+Portland city, Maine	66215
+Portland city, Oregon	654741
+Portsmouth city, Virginia	94398
+Providence city, Rhode Island	179883
+Provo city, Utah	116618
+Pueblo city, Colorado	112361
+Queen Creek town, Arizona	50890
+Quincy city, Massachusetts	94470
+Racine city, Wisconsin	76760
+Raleigh city, North Carolina	474069
+Rancho Cordova city, California	75087
+Rancho Cucamonga city, California	177603
+Rapid City city, South Dakota	77503
+Reading city, Pennsylvania	88375
+Redding city, California	92590
+Redlands city, California	71513
+Redmond city, Washington	71929
+Redondo Beach city, California	66749
+Redwood City city, California	85925
+Reno city, Nevada	255601
+Renton city, Washington	101751
+Revere city, Massachusetts	53073
+Rialto city, California	103526
+Richardson city, Texas	121323
+Richland city, Washington	58225
+Richmond city, California	110567
+Richmond city, Virginia	230436
+Rio Rancho city, New Mexico	99178
+Riverside city, California	331360
+Roanoke city, Virginia	99143
+Rochester city, Minnesota	118935
+Rochester city, New York	205695
+Rochester Hills city, Michigan	74516
+Rock Hill city, South Carolina	75048
+Rockford city, Illinois	145609
+Rocklin city, California	68823
+Rockville city, Maryland	68079
+Rocky Mount city, North Carolina	53922
+Rogers city, Arkansas	68669
+Rosemead city, California	54058
+Roseville city, California	141500
+Roswell city, Georgia	94763
+Round Rock city, Texas	133372
+Rowlett city, Texas	67339
+Royal Oak city, Michigan	59277
+Sacramento city, California	513624
+Saginaw city, Michigan	48115
+Salem city, Oregon	174365
+Salinas city, California	155465
+Salt Lake City city, Utah	200567
+Sammamish city, Washington	65892
+San Angelo city, Texas	101004
+San Antonio city, Texas	1547253
+San Bernardino city, California	215784
+San Buenaventura (Ventura) city, California	109106
+San Clemente city, California	64558
+San Diego city, California	1423851
+San Francisco city, California	881549
+San Jose city, California	1021795
+San Leandro city, California	88815
+San Marcos city, California	96664
+San Marcos city, Texas	64776
+San Mateo city, California	104430
+San Rafael city, California	58440
+San Ramon city, California	75995
+Sandy city, Utah	96380
+Sandy Springs city, Georgia	109452
+Sanford city, Florida	61448
+Santa Ana city, California	332318
+Santa Barbara city, California	91364
+Santa Clara city, California	130365
+Santa Clarita city, California	212979
+Santa Cruz city, California	64608
+Santa Fe city, New Mexico	84683
+Santa Maria city, California	107263
+Santa Monica city, California	90401
+Santa Rosa city, California	176753
+Santee city, California	58081
+Sarasota city, Florida	58285
+Savannah city, Georgia	144464
+Schaumburg village, Illinois	72887
+Schenectady city, New York	65273
+Scottsdale city, Arizona	258069
+Scranton city, Pennsylvania	76653
+Seattle city, Washington	753675
+Shawnee city, Kansas	65807
+Shoreline city, Washington	57027
+Shreveport city, Louisiana	187112
+Simi Valley city, California	125613
+Sioux City city, Iowa	82651
+Sioux Falls city, South Dakota	183793
+Skokie village, Illinois	62700
+Smyrna city, Georgia	56666
+Smyrna town, Tennessee	51586
+Somerville city, Massachusetts	81360
+South Bend city, Indiana	102026
+South Fulton city, Georgia	99155
+South Gate city, California	93444
+South Jordan city, Utah	76598
+South San Francisco city, California	67789
+Southaven city, Mississippi	55780
+Southfield city, Michigan	72689
+Sparks city, Nevada	105006
+Spokane city, Washington	222081
+Spokane Valley city, Washington	101060
+Springdale city, Arkansas	81125
+Springfield city, Illinois	114230
+Springfield city, Massachusetts	153606
+Springfield city, Missouri	167882
+Springfield city, Ohio	58877
+Springfield city, Oregon	63230
+St. Charles city, Missouri	71028
+St. Clair Shores city, Michigan	58984
+St. Cloud city, Florida	54579
+St. Cloud city, Minnesota	68462
+St. George city, Utah	89587
+St. Joseph city, Missouri	74875
+St. Louis city, Missouri	300576
+St. Paul city, Minnesota	308096
+St. Peters city, Missouri	58212
+St. Petersburg city, Florida	265351
+Stamford city, Connecticut	129638
+Sterling Heights city, Michigan	132438
+Stillwater city, Oklahoma	50299
+Stockton city, California	312697
+Stonecrest city, Georgia	54903
+Suffolk city, Virginia	92108
+Sugar Land city, Texas	118488
+Summerville town, South Carolina	52549
+Sunnyvale city, California	152703
+Sunrise city, Florida	95166
+Surprise city, Arizona	141664
+Syracuse city, New York	142327
+Tacoma city, Washington	217827
+Tallahassee city, Florida	194500
+Tamarac city, Florida	66721
+Tampa city, Florida	399700
+Taunton city, Massachusetts	57464
+Taylor city, Michigan	60922
+Taylorsville city, Utah	59805
+Temecula city, California	114761
+Tempe city, Arizona	195805
+Temple city, Texas	78439
+Terre Haute city, Indiana	60622
+Texas City city, Texas	50094
+Thornton city, Colorado	141464
+Thousand Oaks city, California	126813
+Tigard city, Oregon	55514
+Tinley Park village, Illinois	55773
+Toledo city, Ohio	272779
+Topeka city, Kansas	125310
+Torrance city, California	143592
+Tracy city, California	94740
+Trenton city, New Jersey	83203
+Troy city, Michigan	84092
+Troy city, New York	49154
+Tucson city, Arizona	548073
+Tulare city, California	65496
+Tulsa city, Oklahoma	401190
+Turlock city, California	73631
+Tuscaloosa city, Alabama	101129
+Tustin city, California	79348
+Twin Falls city, Idaho	50197
+Tyler city, Texas	106985
+Union City city, California	74107
+Union City city, New Jersey	67982
+Upland city, California	77140
+Urban Honolulu CDP, Hawaii	345064
+Utica city, New York	59750
+Vacaville city, California	100670
+Valdosta city, Georgia	56457
+Vallejo city, California	121692
+Vancouver city, Washington	184463
+Victoria city, Texas	66916
+Victorville city, California	122385
+Vineland city, New Jersey	59439
+Virginia Beach city, Virginia	449974
+Visalia city, California	134605
+Vista city, California	101638
+Waco city, Texas	139236
+Walnut Creek city, California	70166
+Waltham city, Massachusetts	62495
+Warner Robins city, Georgia	77617
+Warren city, Michigan	133943
+Warwick city, Rhode Island	81004
+Washington city, District of Columbia	705749
+Waterbury city, Connecticut	107568
+Waterloo city, Iowa	67328
+Watsonville city, California	53856
+Waukegan city, Illinois	86075
+Waukesha city, Wisconsin	72299
+Wellington village, Florida	65398
+West Allis city, Wisconsin	59890
+West Covina city, California	105101
+West Des Moines city, Iowa	67899
+West Haven city, Connecticut	54620
+West Jordan city, Utah	116480
+West Lafayette city, Indiana	50996
+West New York town, New Jersey	52723
+West Palm Beach city, Florida	111955
+West Sacramento city, California	53519
+West Valley City city, Utah	135248
+Westland city, Michigan	81511
+Westminster city, California	90643
+Westminster city, Colorado	113166
+Weston city, Florida	71166
+Weymouth Town city, Massachusetts	57746
+Wheaton city, Illinois	52745
+White Plains city, New York	58109
+Whittier city, California	85098
+Wichita city, Kansas	389938
+Wichita Falls city, Texas	104683
+Wilmington city, Delaware	70166
+Wilmington city, North Carolina	123744
+Winston-Salem city, North Carolina	247945
+Woodbury city, Minnesota	72828
+Woodland city, California	60548
+Worcester city, Massachusetts	185428
+Wylie city, Texas	53067
+Wyoming city, Michigan	75667
+Yakima city, Washington	93637
+Yonkers city, New York	200370
+Yorba Linda city, California	67644
+Youngstown city, Ohio	65469
+Yuba City city, California	67010
+Yucaipa city, California	53921
+Yuma city, Arizona	98285
