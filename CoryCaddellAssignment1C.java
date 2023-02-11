@@ -8,33 +8,34 @@ public class CoryCaddellAssignment1C {
 	/** Program stores and display total population per state. */
 	public static void main(String[] args) throws FileNotFoundException {
 		
-		Map<String, Integer> CoryCaddellStructure = new TreeMap<>(); 
+		String dataPerLine;	// contents of each line of data from file
+		String[] mapEntry;	// split content of data to array
+		String key;			// map structure key.  second to last element of mapEntry array.
+		Integer value;		// map structure value. last element of mapEntry array
+		Map<String, Integer> CoryCaddellStructure = new TreeMap<>();	// data structure containing state and population data
 		
-	// Read data from file
-		// Check to see if file exists
+		////////////////////// Read data from file /////////////////////////////////////
 		File file = new File("Assignment1CData.txt");
 		if (!file.exists())
 		{
 			System.out.print("File does not exist.");
 			System.exit(0);
 		}
-		// While file has next line
+
 		Scanner input = new Scanner(file);
 		while(input.hasNext()) {
-			// Read line of text
-			String dataPerLine = input.nextLine();
-			// Split out words from input variable
-			String[] mapEntry = dataPerLine.split("[,	]");
-			// Second to last element will be key in Map
-			String key = mapEntry[mapEntry.length - 2].trim();
-			// Last element will be value in Map
-			Integer value = Integer.valueOf(mapEntry[mapEntry.length - 1]);
+			dataPerLine = input.nextLine();
+			mapEntry = dataPerLine.split("[,	]");
 			
-	// Get total population per state
-			// If key is already present in Map
+			// Second to last element is key
+			key = mapEntry[mapEntry.length - 2].trim();
+			// Last element is value
+			value = Integer.valueOf(mapEntry[mapEntry.length - 1]);
+			
+		////////////////////// Get total population per state ////////////////////////////
 			if (CoryCaddellStructure.containsKey(key))
 			{
-				// Increase value by current population value
+				// Increase existing value
 				CoryCaddellStructure.put(key, CoryCaddellStructure.get(key) + value);
 			}
 			else {
@@ -44,9 +45,9 @@ public class CoryCaddellAssignment1C {
 		}
 		input.close();
 		
-	// Display population sum per state to screen in table format
+	///////////////////////// Display population sum per state to screen in table format ////////////
 		System.out.printf("%-30s%s\n", "State", "Total Population");
-		CoryCaddellStructure.forEach((key, value) -> System.out.printf("%-30s%,d\n", key, value));
+		CoryCaddellStructure.forEach((k, v) -> System.out.printf("%-30s%,d\n", k, v));
 	}
 
 }
