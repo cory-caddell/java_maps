@@ -12,9 +12,9 @@ public class CoryCaddellAssignment1C {
 		String[] mapEntry;	// split content of data to array
 		String key;			// map structure key.  second to last element of mapEntry array.
 		Integer value;		// map structure value. last element of mapEntry array
-		Map<String, Integer> CoryCaddellStructure = new TreeMap<>();	// data structure containing state and population data
+		Map<String, Integer> CoryCaddellMap = new TreeMap<>();	// data structure containing state and population data
 		
-		////////////////////// Read data from file /////////////////////////////////////
+		// Read data from file
 		File file = new File("Assignment1CData.txt");
 		if (!file.exists())
 		{
@@ -32,22 +32,22 @@ public class CoryCaddellAssignment1C {
 			// Last element is value
 			value = Integer.valueOf(mapEntry[mapEntry.length - 1]);
 			
-		////////////////////// Get total population per state ////////////////////////////
-			if (CoryCaddellStructure.containsKey(key))
+		// Get total population per state
+			if (CoryCaddellMap.containsKey(key))
 			{
 				// Increase existing value
-				CoryCaddellStructure.put(key, CoryCaddellStructure.get(key) + value);
+				CoryCaddellMap.put(key, CoryCaddellMap.get(key) + value);
 			}
 			else {
 				// Add entry to data structure
-				CoryCaddellStructure.put(key, value);
+				CoryCaddellMap.put(key, value);
 			}
 		}
 		input.close();
 		
-	///////////////////////// Display population sum per state to screen in table format ////////////
+		// Display population sum per state to screen in table format
 		System.out.printf("%-30s%s\n", "State", "Total Population");
-		CoryCaddellStructure.forEach((k, v) -> System.out.printf("%-30s%,d\n", k, v));
+		CoryCaddellMap.forEach((k, v) -> System.out.printf("%-30s%,d\n", k, v));
 	}
 
 }
